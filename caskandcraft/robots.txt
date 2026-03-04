@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.caskandcrafthdw.com/sitemap.xml
+
+# Block any admin or form processing paths
+Disallow: /admin/
+Disallow: /cgi-bin/
